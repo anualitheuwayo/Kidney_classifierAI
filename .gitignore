@@ -1,0 +1,23 @@
+# Python virtual environments
+venv310/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local agent tooling
+.agents/
+kidney_ct_mobilenetv2_balanced_best/
